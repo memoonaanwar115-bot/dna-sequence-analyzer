@@ -1,15 +1,25 @@
-# 🧬 DNA to Protein Translator
+# 🧬 DNA Sequence Analyzer
 
-## Description
-Converts DNA sequences into amino acid protein sequences using codon mapping.
+## Overview
+This is my first beginner bioinformatics project using Python.
+
+## What I learned
+- DNA structure (A, T, G, C)
+- Counting nucleotides using Python
+- GC content calculation
 
 ## Features
-- Codon to amino acid conversion
-- Stops at stop codon
-- Beginner bioinformatics project
+- Count A, T, G, C
+- Calculate GC content
+- Simple biological data analysis
 
-## Tech
+## Future Improvements
+- Take user input
+- Read DNA from files
+- Add charts using matplotlib
+
+## Tech Used
 - Python
 
-## Purpose
-Learning genetic translation process.
+## Author
+Beginner bioinformatics learner building GitHub portfolio
